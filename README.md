@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on this README.md!
 - 🌱 I’m currently learning PHP and DiscordJS
 - 👯 I’m open to collaborate on anything that interests me!
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with this README.md
 - 💬 Ask me about ...
 - 📫 How to reach me:
   - maxestrella565@gmail.com 
