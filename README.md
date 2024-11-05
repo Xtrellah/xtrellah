@@ -6,8 +6,8 @@
 <h3 align="left">A bit about me:</h3>
 
 - 📚 2024 <a href="io-academy.uk">IO Academy</a> Graduate.
-- 🔭 I’m currently working on this README.md!
-- 🌱 I’m currently learning Laravel, PHP and DiscordJS!
+- 🔭 I’m currently working on using the Steam Web API with a React frontend!
+- 🌱 I’m currently improving my PHP and React skills!
 - 👯 I’m open to collaborate on anything!
 - 📫 How to reach me:
   - maxestrella565@gmail.com 
