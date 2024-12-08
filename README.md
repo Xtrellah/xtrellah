@@ -14,6 +14,15 @@
   -  <a href="www.linkedin.com/in/max-estrella">LinkedIn</a> 
 - ⚡ Fun fact: I am a qualified snowboard instructor!
 
+<h1>IO Academy May SDE 2024:</h1>
+These are the Team projects I completed during the course:
+
+- <a href="https://github.com/iO-Academy/2024-may-invoicing-sw-flamingos">Invoicing App Front-End</a> made in React.
+- <a href="https://github.com/iO-Academy/2024-may-music-player-uWu-ShruWu">Music Player App</a> made in PHP which used an existing API.
+- <a href="https://github.com/iO-Academy/2024-may-sde-komodo-kode-book-swap-api">Book Swap API</a> made in PHP with Laravel framework.
+
+I also started my <a href="https://github.com/iO-Academy/2024-may-sde-komodo-kode-book-swap-api">Portfolio</a>, in this time.
+
 <h1>My Skill Set</h1>
 <h3 align="left">Full Stack:</h3>
 
