@@ -7,12 +7,11 @@
 
 - 📚 2024 <a href="io-academy.uk">IO Academy</a> Graduate.
 - 🔭 I’m currently working on using the Steam Web API with a React frontend!
-- 🌱 I’m currently improving my PHP and React skills!
+- 🌱 I’m currently improving my Python and React skills!
 - 👯 I’m open to collaborate on anything!
 - 📫 How to reach me:
   - maxestrella565@gmail.com 
   -  <a href="www.linkedin.com/in/max-estrella">LinkedIn</a> 
-- ⚡ Fun fact: I am a qualified snowboard instructor!
 
 <h1>IO Academy May SDE 2024:</h1>
 These are the Team projects I completed during the course:
@@ -30,7 +29,7 @@ I also started my <a href="https://github.com/iO-Academy/2024-may-sde-komodo-kod
 
 <h3 align="left">Other Langueges I'm Familiar With:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=godot,py,r)
+![My Skills](https://skillicons.dev/icons?i=godot,py)
 
 <h3 align="left">Software and Tools:</h3>
 
